@@ -1,0 +1,8 @@
+{
+"mongodb_user": "",
+"mongodb_pass": "",
+"mongodb_port": "",
+"mongodb_host": ".mlab.com",
+"mongodb_db": "",
+"mongodb_url": "mongodb://<user>:<pass>@<host>:<port>/<db>"
+}
